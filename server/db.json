@@ -4,11 +4,11 @@
       "id": 1,
       "ownerType": "individual",
       "ownerName": "Kumar Sharma",
-      "title": "Canon EOS 200D",
-      "lensDescription": "18-55mm kit lens, great for beginners",
+      "title": "Canon EOS 250D",
+      "lensDescription": "24.1MP DSLR with 18-55mm STM lens, perfect for travel and portraits.",
       "pricePerDay": 500,
-      "location": "Bangalore",
-      "contact": "+91-9885236459",
+      "location": "Mysuru",
+      "contact": "+91-9845123478",
       "images": [
         "/images/camera1.jpg",
         "/images/lens1.jpg"
@@ -18,11 +18,11 @@
       "id": 2,
       "ownerType": "individual",
       "ownerName": "Boss",
-      "title": "Sony A7III",
-      "lensDescription": "Full-frame with 50mm prime",
+      "title": "Sony A7 III",
+      "lensDescription": "Full-frame mirrorless paired with a 50mm f/1.8 prime lens ideal for cinematic shots.",
       "pricePerDay": 3500,
-      "location": "Bangalore",
-      "contact": "+91-9778453658",
+      "location": "Hubballi",
+      "contact": "+91-9916784523",
       "images": [
         "/images/camera2.jpg"
       ]
@@ -31,36 +31,58 @@
       "id": 3,
       "ownerType": "individual",
       "ownerName": "Ravi Sharma",
-      "title": "Canon EOS 70D",
-      "lensDescription": "18-55mm kit lens, great for beginners",
+      "title": "Canon EOS 80D",
+      "lensDescription": "Versatile DSLR with 18-135mm lens, great for wildlife and events.",
       "pricePerDay": 900,
-      "location": "Bangalore",
-      "contact": "+91-9802145896",
+      "location": "Mangalore",
+      "contact": "+91-9036124785",
       "images": [
-        "/images/camera1.jpg",
-        "/images/lens1.jpg"
+        "/images/camera3.jpg",
+        "/images/lens3.jpg"
       ]
     },
     {
       "id": 4,
       "ownerType": "individual",
       "ownerName": "Bharath NG",
-      "title": "nikon",
-      "lensDescription": "550mm\n450mm",
+      "title": "Nikon D5600",
+      "lensDescription": "24.2MP DSLR with 18-55mm VR and 70-300mm telephoto combo.",
       "pricePerDay": 700,
-      "location": "Bangalore",
-      "contact": "+91 7676852689",
+      "location": "Shivamogga",
+      "contact": "+91-9686451230",
       "images": []
     },
     {
       "id": 5,
       "ownerType": "individual",
       "ownerName": "Sundeep",
-      "title": "sony",
-      "lensDescription": "dfs",
+      "title": "Sony A6400",
+      "lensDescription": "Compact mirrorless with 16-50mm power zoom lens, ideal for vlogging.",
       "pricePerDay": 123,
+      "location": "Udupi",
+      "contact": "+91-9731654028",
+      "images": []
+    },
+    {
+      "id": 6,
+      "ownerType": "individual",
+      "ownerName": "Bhimappa",
+      "title": "Nikon D7500",
+      "lensDescription": "High-speed DSLR with 35mm f/1.8 and 200-500mm wildlife telephoto lens.",
+      "pricePerDay": 399,
+      "location": "Belagavi",
+      "contact": "+91-8867421359",
+      "images": []
+    },
+    {
+      "id": 7,
+      "ownerType": "individual",
+      "ownerName": "Rakesh",
+      "title": "sony f36",
+      "lensDescription": "500mm video lens",
+      "pricePerDay": 1200,
       "location": "sagar",
-      "contact": "8794132122",
+      "contact": "8745695210",
       "images": []
     }
   ]
